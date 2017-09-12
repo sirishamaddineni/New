@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EAA3-67C3
+
+ Directory of C:\Users\sirisha.maddineni\Desktop\Sample
+
+09/12/2017  03:58 PM    <DIR>          .
+09/12/2017  03:58 PM    <DIR>          ..
+09/11/2017  04:40 PM                 0 f1.txt.txt
+09/12/2017  03:58 PM                 0 f2.txt
+09/12/2017  03:13 PM               419 index2.html
+               3 File(s)            419 bytes
+               2 Dir(s)  136,716,570,624 bytes free
